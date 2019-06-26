@@ -1,0 +1,31 @@
+.flex-grid {
+    display: flex;
+}
+.col {
+    flex: 1;
+}
+.gridTable{
+    height: 500px;
+    width: 500;
+    border: 1px solid black;
+    justify-content: center;
+}
+.cell{
+      width: 20px;
+      height: 20px;
+}  
+.filledCell{
+    background-color: black;
+}
+.pageTitle {
+
+}
+.center{
+    text-align: center;
+}
+#buttonContainer{
+    display: inline;
+}
+.roboto{
+    font-family: 'Roboto', sans-serif;
+}
